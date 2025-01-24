@@ -1,4 +1,4 @@
-print('que rollo compañeros')
+print('que rollo amigos')
 
 def funcion():
     print('estoy zopilote')
@@ -6,3 +6,5 @@ def funcion():
 funcion()
 
 # comentario random
+
+# comentario2
